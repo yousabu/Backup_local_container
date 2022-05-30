@@ -16,8 +16,8 @@ sudo mysqldump -u root -pYoussef@500 wordpress > wp_DB_local_$DATE.sql
 
 
 # aws craid 
-export AWS_SECRET_ACCESS_KEY=o8ROPS9a9VeUpQEf2N15c6HFaSsteqrJX/ePTzBT
-export AWS_ACCESS_KEY_ID=AKIAYORXP2IZSMNP7HXP
+export AWS_SECRET_ACCESS_KEY=< AWS_Access >
+export AWS_ACCESS_KEY_ID=< AWS_Key >
 
 
 # Uploading..........
